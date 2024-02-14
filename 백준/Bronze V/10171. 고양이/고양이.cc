@@ -3,8 +3,6 @@ using namespace std;
 
 int main() {
 	ios::sync_with_stdio(false);
-	cin.tie(NULL);
-	long int a, b, c;
 	cout << "\\    /\\\n";
 	cout << " )  ( ')\n";
 	cout << "(  /  )\n";
